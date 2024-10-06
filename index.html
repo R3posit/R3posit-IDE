@@ -54,7 +54,7 @@
 </head>
 <body>
   <div id="editor"></div>
-  <button id="run-code">Kodu Çalıştır</button>
+  <button id="run-code">Run Code</button>
   <div id="terminal"></div>
 
   <script src="node_modules/monaco-editor/min/vs/loader.js"></script>
@@ -64,7 +64,7 @@
     let editorInstance;
     require(['vs/editor/editor.main'], function() {
       editorInstance = monaco.editor.create(document.getElementById('editor'), {
-        value: "// Buraya kod yazabilirsiniz...",
+        value: "// You can code here...",
         language: "javascript",
         theme: "vs-dark",
         contextMenuProvider: null,
