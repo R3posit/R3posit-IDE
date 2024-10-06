@@ -26,11 +26,11 @@ When you run the code, the output will display in the terminal.
 
 ![Screenshot of R3posit-IDE](images/image.png)
 
-##Contributing
+--> Contributing
 
 Contributions are welcome! Feel free to open issues for feature requests or bug reports, and submit pull requests to improve the IDE.
 
-##License
+--> License
 
 This project is open-source and available under the MIT License.
 
