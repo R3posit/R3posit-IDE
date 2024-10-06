@@ -11,7 +11,10 @@ R3posit-IDE is a simple Integrated Development Environment (IDE) for writing and
 ## Usage
 
 1. **Clone or Download**: Clone this repository or download it as a ZIP file.
-2. **Open in Browser**: Navigate to the project directory and open the `index.html` file in your preferred web browser.
+2. **To run the project**, navigate to the project directory in your terminal and execute the command:
+```javascript
+npm start
+```
 3. **Write and Run Code**: Enter your JavaScript code in the editor, and click the "Run Code" button to execute it. The output will appear in the terminal section below.
 
 ## Example
