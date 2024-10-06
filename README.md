@@ -2,6 +2,8 @@
 
 R3posit-IDE is a simple Integrated Development Environment (IDE) for writing and executing JavaScript code. Built with the Monaco Editor, it offers a clean and modern interface where users can quickly test and run their code in a terminal-like output.
 
+![Screenshot of R3posit-IDE](images/screenshot.png)
+
 ## Features
 
 - **Code Editing**: Write JavaScript code using the Monaco Editor with syntax highlighting and code suggestions.
